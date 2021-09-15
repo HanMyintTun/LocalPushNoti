@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4BE372C5-17CE-4005-BDCE-A8AB43D32EF6"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1A645383-5782-4A05-A1A4-E91FCCC460DA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ReminderApp/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "NotificationDelegate"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "51837847-4640-4CC3-90AB-CAE3F937A2B1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ReminderApp/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "105"
+            endingLineNumber = "105"
+            landmarkName = "scheduleNotification()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "51837847-4640-4CC3-90AB-CAE3F937A2B1 - 1f69d232bc00d48c"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ReminderApp.ContentView.init(appState: ReminderApp.AppState, delegate: @autoclosure () -&gt; ReminderApp.NotificationDelegate) -&gt; ReminderApp.ContentView"
+                  moduleName = "ReminderApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hanmyinttun/Documents/_work/ios/ReminderApp/ReminderApp/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "54">
+               </Location>
+               <Location
+                  uuid = "51837847-4640-4CC3-90AB-CAE3F937A2B1 - 6e5bb885a13ce8cf"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ReminderApp.ContentView.init() -&gt; ReminderApp.ContentView"
+                  moduleName = "ReminderApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hanmyinttun/Documents/_work/ios/ReminderApp/ReminderApp/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "106"
+                  endingLineNumber = "106"
+                  offsetFromSymbolStart = "30">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
